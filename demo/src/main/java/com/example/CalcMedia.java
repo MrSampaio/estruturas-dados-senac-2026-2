@@ -7,6 +7,7 @@ public class CalcMedia {
     private double nota2;
     private double nota3;
     private double media;
+    
 
     public double getNota1() {
         return nota1;

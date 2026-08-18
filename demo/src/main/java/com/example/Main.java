@@ -1,11 +1,12 @@
 package com.example;
-import java.util.Scanner;
+// import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scr = new Scanner(System.in);
+        // Scanner scr = new Scanner(System.in);
+
 
         CalcMedia media = new CalcMedia();
 
