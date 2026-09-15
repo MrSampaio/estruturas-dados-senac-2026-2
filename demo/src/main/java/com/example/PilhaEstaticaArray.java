@@ -5,7 +5,6 @@ package com.example;
  *
  * Regra da Pilha: LIFO (ultimo que entra, primeiro que sai).
  */
-
 public class PilhaEstaticaArray {
 
     // Array fixo (estatico) para guardar os elementos.
@@ -58,6 +57,7 @@ public class PilhaEstaticaArray {
     public boolean estaCheia() {
         return topo == dados.length - 1;
     }
+
     public int tamanho() {
         return topo + 1;
     }
