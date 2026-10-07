@@ -18,6 +18,7 @@ import java.util.NoSuchElementException;
  */
 public class ListaDuplamenteEncadeada<T> {
 
+
     // -------------------------------------------------------------------------
     // No interno
     // -------------------------------------------------------------------------
