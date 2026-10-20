@@ -5,7 +5,7 @@ Material didatico da disciplina de Estruturas de Dados do Senac. O repositorio r
 ## Cronograma
 
 | Aula | Tema | Material |
-| --- | --- | --- |
+| --- | --- | --- my|
 | 11/08 | Fundamentos de Java | `demo/src/main/java/com/example/Main.java` |
 | 18/08 | Encapsulamento e TAD | [encapsulamento.md](encapsulamento.md) |
 | 18/08 | Busca linear e busca binaria | [complexidade.md](complexidade.md) |
